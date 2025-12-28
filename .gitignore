@@ -1,0 +1,27 @@
+# --- Python Basics ---
+__pycache__/
+*.pyc
+
+# --- JetBrains/IDE Settings ---
+.idea/
+.vscode/
+
+# --- Virtual Environments ---
+venv/
+env/
+
+# --- PyInstaller Build Artifacts ---
+build/
+dist/
+*.spec
+
+# --- Application Data (Do NOT upload these) ---
+# These contain your local test data and generated files
+photos/
+generated_pdfs/
+history.json
+audit_log.json
+
+# --- OS Generated ---
+.DS_Store
+Thumbs.db
