@@ -29,7 +29,7 @@
 ### Option 2: Run from Source Code
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/IDKAP.git](https://github.com/ash4code/IDKAP.git)
+    git clone [https://github.com/ash4code/IDKAP.git](https://github.com/ash4code/IDKAP.git)
     ```
 2.  Install dependencies:
     ```bash
